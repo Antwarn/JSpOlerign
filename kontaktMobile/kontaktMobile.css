@@ -14,3 +14,11 @@ body {
     filter: blur(2px);
     z-index: -2;
 }
+
+.logo {
+    width: 50px;
+    position: fixed;
+    top: 2%;
+    left: 25%;
+}
+
